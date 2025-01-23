@@ -13,3 +13,7 @@ public class SumOfDigits {
         System.out.println("Sum of digits: " + sum);
     }
 }
+Output 
+
+Enter a number: 12345
+Sum of digits: 15
